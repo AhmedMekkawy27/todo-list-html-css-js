@@ -37,4 +37,4 @@ Users should be able to:
 
 - HTML5
 - CSS
--javascript
+- javascript
